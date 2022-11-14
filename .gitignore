@@ -1,0 +1,6 @@
+/build
+/dist
+/cache
+/doc/*.pdf
+/doc/*.docx
+*.spec
